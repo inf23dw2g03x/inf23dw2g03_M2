@@ -36,7 +36,7 @@ Miguel Sousa (a043830@umaia.pt)
 
 > ***Docker:***
 
-***Dockerhub repository:*** - (...)
+***Dockerhub repository:*** - https://hub.docker.com/repositories/inf23dw2g03
 
 
 Do a docker pull of the images:
