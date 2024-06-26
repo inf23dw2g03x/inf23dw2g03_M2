@@ -43,11 +43,11 @@ Do a docker pull of the images:
 
 > Mysql:
 ```
-docker pull inf23dw2g03x/inf23dw2g03_M1:mysql
+docker pull inf23dw2g03x/inf23dw2g03_M2:mysql
 ```
 > NodeJS APP:
 ```
-docker pull inf23dw2g03x/inf23dw2g03_M1:node
+docker pull inf23dw2g03x/inf23dw2g03_M2:node
 ```
 
 ### Instruções para o código funcionar:
